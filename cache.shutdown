@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/sbin/hdparm -W0 /dev/sda
